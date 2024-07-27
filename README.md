@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<p dir="auto">🌱 I’m currently learning <strong>FLUTTER Development</strong></p>
-- 💬 Ask me about **anything**
 
+- 🌱 I’m currently learning <strong>FLUTTER Development</strong></p>
+- 💬 Ask me about **anything**
 - 📫 How to reach me **ibrahim.elbaz.1011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
